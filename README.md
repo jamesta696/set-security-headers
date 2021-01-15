@@ -10,6 +10,8 @@ This is a template for setting the proper security headers for your domain when 
 
 To generate using [wrangler](https://github.com/cloudflare/wrangler)
 
+#### Include your own `wrangler.toml` file
+
 ```
 wrangler generate projectname https://github.com/jamesta696/set-security-headers
 ```
