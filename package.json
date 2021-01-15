@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "set-sec-headers",
+  "version": "1.0.0",
+  "description": "A template for setting the proper security headers for your domain when using CloudFlare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "format": "prettier --write '**/*.{js,css,json,md}'"
+  },
+  "author": "jamesta696 <jaysmith696@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  }
+}
